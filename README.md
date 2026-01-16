@@ -32,6 +32,6 @@ time-window constraints.
 ## How to Run
 
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/jatin9958/optimal_truck_load_planner.git
 cd optimal_truck_load_planner
 docker compose up --build
